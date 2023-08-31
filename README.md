@@ -1,3 +1,5 @@
+Fetched Data from jsonplaceholder.typicode.com which is a free and open source website which provides a fake API with data that we can use for testing and prototyping processes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
